@@ -4,8 +4,6 @@
   <br>
 </h2>
 
-#### Curso sendo realizado: https://www.udemy.com/course/tdd-com-mango/
-
 <p align="center">
   <a href="#introdução">Introdução</a> 
 </p>
@@ -16,6 +14,8 @@
 <p align="justify">
 O objetivo do treinamento é mostrar como criar uma API com uma arquitetura bem definida e desacoplada, utilizando TDD (programação orientada a testes) como metodologia de trabalho, Clean Architecture para fazer a distribuição de responsabilidades em camadas, sempre seguindo os princípios do SOLID e, sempre que possível, aplicando Design Patterns para resolver alguns problemas comuns.
 </p>
+
+#### Curso sendo realizado: https://www.udemy.com/course/tdd-com-mango/
 
 #### Readme logo será preenchido, aguardem :wave: 
 
