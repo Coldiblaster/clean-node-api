@@ -7,7 +7,7 @@
 #### Curso sendo realizado: https://www.udemy.com/course/tdd-com-mango/
 
 <p align="center">
-  <a href="#introdução">:small_blue_diamond: Introdução</a> 
+  <a href="#introdução">Introdução</a> 
 </p>
 
 ## Introdução
