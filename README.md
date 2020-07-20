@@ -5,10 +5,10 @@
 </h2>
 
 <p align="center">
-  <a href="#introdução">•	Introdução</a> 
-  <a href="#bibliotecas-clipboard">• Bibliotecas</a> 
-  <a href="#atalhos-para-o-git-octocat">•	Atalhos para o Git</a> 
-  <a href="#comandos-interessantes-computer">•	Comandos interessantes</a> 
+  • <a href="#introdução">Introdução</a> 
+  • <a href="#bibliotecas-clipboard">Bibliotecas</a> 
+  • <a href="#atalhos-para-o-git-octocat">Atalhos para o Git</a> 
+  • <a href="#comandos-interessantes-computer">Comandos interessantes</a> 
 </p>
 
 ## Introdução
