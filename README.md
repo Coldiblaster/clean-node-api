@@ -6,6 +6,9 @@
 
 <p align="center">
   <a href="#introdução">Introdução</a> 
+  <a href="#bibliotecas-clipboard">Bibliotecas</a> 
+  <a href="#atalhos-para-o-git-octocat">Atalhos para o Git</a> 
+  <a href="#comandos-interessantes-computer">Comandos interessantes</a> 
 </p>
 
 ## Introdução
@@ -17,7 +20,14 @@ O objetivo do treinamento é mostrar como criar uma API com uma arquitetura bem 
 
 #### Curso sendo realizado: https://www.udemy.com/course/tdd-com-mango/
 
-## Atalhos para o Git
+## Bibliotecas :clipboard:
+- [x] git-commit-msg-linter (Para padronizar os commits utilizamos está biblioteca para garantir que nossos commit irão respeitar a seguinte documentação: https://www.conventionalcommits.org/en/v1.0.0/)
+- [x] husky (Com ela é possível configurar comandos antes de executar algum commit)
+- [x] linst-staged (É utilizada em conjunto com o husky, sem ela qualquer comando iria verificar todos os arquivos, mais se ela for implementada irá rodar somente nos arquivos que forem commitados)
+- [x] Jest (Framework de testes de JavaScript com foco na simplicidade, pode ser usado tanto no front-end quanto back-end)
+- [x] npm-check (Atualiza as dependências que o desenvolvedor achar necessário)
+
+## Atalhos para o Git :octocat:
 Podemos configurar comandos de atalhos para o Git, iremos seguir os seguintes passos:
 
 Primeiramente existem 3 níveis de configuração do git que podemos rodar no prompt:
@@ -37,4 +47,10 @@ Algums comandos interessantes para deixar como atalho:
     l = !git log --
     pretty=format:'%C(blue)%h%C(red)%d %C(white)%s - %C(cyan)%cn, %C(green)%cr'
 pretty=format:'%C(blue)%h%C(red)%d %C(white)%s - %C(cyan)%cn, %C(green)%cr'
+```
+
+## Comandos interessantes :computer:
+```bash
+# Commitar encima do ultimo commit feito
+$ git commit --amend --no-edit
 ```
