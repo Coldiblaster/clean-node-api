@@ -21,7 +21,7 @@ O objetivo do treinamento é mostrar como criar uma API com uma arquitetura bem 
 #### Curso sendo realizado: https://www.udemy.com/course/tdd-com-mango/
 
 ## Bibliotecas :clipboard:
-- [x] git-commit-msg-linter (Para padronizar os commits utilizamos está biblioteca para garantir que nossos commit irão respeitar a seguinte documentação: https://www.conventionalcommits.org/en/v1.0.0/)
+- [x] git-commit-msg-linter (Para padronizar os commits utilizamos está biblioteca para garantir que nossos commit irão respeitar a seguinte documentação: https://www.conventionalcommits.org/en/v1.0.0-beta.4/)
 - [x] husky (Com ela é possível configurar comandos antes de executar algum commit)
 - [x] linst-staged (É utilizada em conjunto com o husky, sem ela qualquer comando iria verificar todos os arquivos, mais se ela for implementada irá rodar somente nos arquivos que forem commitados)
 - [x] Jest (Framework de testes de JavaScript com foco na simplicidade, pode ser usado tanto no front-end quanto back-end)
